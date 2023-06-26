@@ -1,0 +1,67 @@
+/* Definindo estilos para o corpo do documento */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333333;
+    background-color: #f5f5f5;
+  }
+  
+  /* Estilos para os títulos */
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000000;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 15px;
+  }
+  
+  /* Estilos para parágrafos */
+  p {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para links */
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Estilos para listas */
+  ul {
+    list-style-type: disc;
+    margin-bottom: 15px;
+  }
+  
+  ol {
+    list-style-type: decimal;
+    margin-bottom: 15px;
+  }
+  
+  /* Estilos para classes específicas */
+  .intro {
+    font-style: italic;
+  }
+  
+  .highlight {
+    background-color: rgb(0, 255, 179);
+  }
+  
+  /* Estilos para elementos específicos */
+  #header {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 10px;
+  }
+  
+  
